@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ondevici.github.io/sitemap.html.gz
+Sitemap: https://ondevici.github.io/app/sitemap.html.gz
+Sitemap: https://ondevici.github.io/assets/sitemap.html.gz
+Sitemap: https://ondevici.github.io/css/sitemap.html.gz
+Sitemap: https://ondevici.github.io/includes/sitemap.html.gz
+Sitemap: https://ondevici.github.io/item/sitemap.html.gz
+Sitemap: https://ondevici.github.io/src/sitemap.html.gz
